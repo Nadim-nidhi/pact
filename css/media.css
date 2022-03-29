@@ -1,0 +1,99 @@
+@media(min-width: 320px) and (max-width: 575.99px){
+	.navbar-collapse{
+		background-color:#5ebfc7;
+	}
+	header .navbar-nav li a{
+		transition-duration: 0s;
+	}
+	header .navbar-nav li a:hover,header .navbar-nav li a.active{
+display: inline-block;
+}
+	header .inner h1 {
+   
+    font-size: 43px !important;
+}
+header .inner p {
+    font-size: 16px!important;
+}
+header .inner a {
+	font-size: 14px!important;
+	display:inline-block!important;
+	margin-bottom: 6px;
+}
+header .inner {
+    padding: 54px 0px !important;
+    text-align: center!important;
+}
+
+
+
+
+
+}
+@media(min-width: 576px) and (max-width: 767.99px){
+	.navbar-collapse{
+		background-color:#5ebfc7;
+	}
+	header .navbar-nav li a{
+		transition-duration: 0s;
+	}
+	header .navbar-nav li a:hover,header .navbar-nav li a.active{
+display: inline-block;
+}
+	header .inner h1 {
+   
+    font-size: 60px !important;
+}
+header .inner p {
+    font-size: 21px!important;
+}
+header .inner a {
+	font-size: 15px!important;
+}
+header .inner {
+    padding: 54px 0px !important;
+}
+
+
+
+
+	
+}
+@media(min-width: 768px) and (max-width: 991.99px){
+	.navbar-collapse{
+		background-color:#5ebfc7;
+	}
+	header .navbar-nav li a{
+		transition-duration: 0s;
+	}
+	header .navbar-nav li a:hover,header .navbar-nav li a.active{
+display: inline-block;
+
+
+
+	}
+	header .inner h1 {
+   
+    font-size: 70px !important;
+}
+header .inner p {
+    font-size: 18px!important;
+}
+header .inner a {
+	font-size: 15px!important;
+}
+header .inner {
+    padding: 54px 0px !important;
+}
+
+
+
+
+
+
+
+	
+}
+@media(min-width: 992px) and (max-width: 1199.99px){
+	
+}
